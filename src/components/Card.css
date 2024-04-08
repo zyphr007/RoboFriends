@@ -1,0 +1,13 @@
+.design {
+  background-color: lightgreen;
+  display: inline-block;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 40px 20px;
+  transition: 1s;
+  box-shadow: 0 5px 10px #0004;
+  text-align: center;
+}
+.design:hover {
+  transform: scale(1.1);
+}
